@@ -120,8 +120,3 @@ YoloAPIProject/
 - No se realiza validación de tipo de archivo aún.
 
 ---
-
-## 🧠 Autor
-
-Desarrollado por Federico Stragliati y equipo Infraestructura.  
-[GitHub](https://github.com/federicostragliati)
