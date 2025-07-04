@@ -120,3 +120,4 @@ YoloAPIProject/
 - No se realiza validación de tipo de archivo aún.
 
 ---
+.
